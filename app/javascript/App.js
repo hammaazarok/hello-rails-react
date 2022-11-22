@@ -1,13 +1,13 @@
 import React from 'react';
 import { Link, Route, Routes } from 'react-router-dom';
-
+import Greeting from './Greeting';
 const App = () => {
   return (
-    <div>
-      <h1>Hello there</h1>
-      <Link to="/greeting">Welcome</Link>
+    <div h2 className='center'>
+      <h1>Hello to combined world</h1>
+      <h5>refersh to display random message</h5>
       <Routes>
-        <Route path="/greeting" element={<h1>hello route</h1>} />
+        <Route path="/" element={<Greeting />} />
       </Routes>
     </div>
   );
