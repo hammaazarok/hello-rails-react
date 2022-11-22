@@ -132,8 +132,8 @@ You can deploy this project using:
 
 👤 **Hamma Azarok**
 
-- Twitter: [@saidlaasr](https://twitter.com/hamma10)
-- LinkedIn: [SAID LAASRI](https://www.linkedin.com/in/hammaazarok/)
+- Twitter: [@hammaazarok](https://twitter.com/hamma10)
+- LinkedIn: [Hamma Azarok](https://www.linkedin.com/in/hammaazarok/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
